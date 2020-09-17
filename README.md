@@ -1,10 +1,10 @@
-#Yashi
-###This README file is meant to be read. If you do not do so, you may not know the consequences of whatever you do.
+# Yashi
+### This README file is meant to be read. If you do not do so, you may not know the consequences of whatever you do.
 
-#About Yashi
+# About Yashi
 Yashi is an open source experimental website, with a lot of things that may be deemed useful for learning about web development. Such as, registration forms, and a lot more.
 
-#What To Do & What Not To Do
+# What To Do & What Not To Do
 
 **What To Do**
 - Learn from the code
