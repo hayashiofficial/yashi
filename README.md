@@ -2,7 +2,10 @@
 ### This README file is meant to be read. If you do not do so, you may not know the consequences of whatever you do.
 
 # About Yashi
-Yashi is an open source experimental website, with a lot of things that may be deemed useful for learning about web development. Such as, registration forms, and a lot more.
+Yashi is an open source experimental website, with a lot of things that may be deemed useful for learning about web development. Such as, registration forms, and a lot more. Yashi was built with Bulma CSS (bulma.io) which is a very sleek and easy to learn CSS framework.
+
+# About the Code
+Yes, I know how bad the code is and how unefficient it is, but this code was made when I was just learning how to integrate Javascript into HTML.
 
 # What To Do & What Not To Do
 
